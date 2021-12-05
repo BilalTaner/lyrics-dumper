@@ -1,6 +1,6 @@
 {
   "name": "lyrics-dumper",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Lyrics Dumper. Get lyrics from google with everything.",
   "main": "dist/index.js",
   "keywords": [
