@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "./dist/",
+    "sourceMap": false,
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "baseUrl": "./dist",
+    "incremental": false,
+    "strict": true,
+    "strictNullChecks": false,
+    "declaration": false,
+    "inlineSourceMap": false,
+    "typeRoots": ["node_modules/@types/"],
+    "resolveJsonModule": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
