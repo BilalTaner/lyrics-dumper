@@ -1,3 +1,4 @@
 "use strict";
 
-export * from "./mainFunction";
+export * from "./functions/mainFunction";
+export * from "./@types/type";
